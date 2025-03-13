@@ -1,5 +1,6 @@
 
-## 👋 About Me  <br><br>Hey there! I'm Prakashman Singh Thakuri, a **BSc CSIT student from Nepal** passionate about **Artificial Intelligence, Data Science, and Web Development**.  <br><br>🚀 Currently on a **333-day Data Science Challenge**, sharing my learning journey on **LinkedIn**.  <br>💻 Exploring **Python, Django, Pandas, NumPy, and Matplotlib** to analyze real-world data.  <br>📊 Interested in **Machine Learning, AI, and Data-Driven Insights**.  <br>🌱 Learning **C++** to strengthen my core programming skills.  <br><br>
+## 👋 About Me  <br><br>Hey there! I'm Prakashman Singh Thakuri, a **BSc CSIT student from Nepal** passionate about **Artificial Intelligence, Data Science, and Web Development**. 
+<br><br>🚀 Currently on a **333-day Data Science Challenge**, sharing my learning journey on **LinkedIn**.  <br>💻 Exploring **Python, Django, Pandas, NumPy, and Matplotlib** to analyze real-world data.  <br>📊 Interested in **Machine Learning, AI, and Data-Driven Insights**.  <br>🌱 Learning **C++** to strengthen my core programming skills.  <br><br>
 
 
 ## 🌐 Socials:
